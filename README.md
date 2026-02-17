@@ -1,1 +1,5 @@
-# NLP_Assignments_s26
+ repository for NLP assignments
+
+ Assignment №1
+ - pip install -r requirements.txt
+ - run all
